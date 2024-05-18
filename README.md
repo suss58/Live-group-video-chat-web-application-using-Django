@@ -32,3 +32,4 @@ and
 python manage.py runserver
 
 
+![alt text](image-1.png)
